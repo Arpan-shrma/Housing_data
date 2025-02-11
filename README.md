@@ -114,9 +114,7 @@ Feel free to submit issues and enhancement requests.
 This project is licensed under the MIT License - see the LICENSE file for details.
 
 ## 👥 Author
-DATA*6200
+Arpan Sharma
 
 ## 🙏 Acknowledgments
-- British Columbia Wildfire Service for data access
-- WorldClim for climate data
-- geodata package maintainers
+- I would like to thank Dr. Mihai Nica for getting me this dataset to work on during my coursework.
