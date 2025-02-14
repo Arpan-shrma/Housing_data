@@ -117,4 +117,4 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 Arpan Sharma
 
 ## 🙏 Acknowledgments
-- I would like to thank Dr. Mihai Nica for getting me this dataset to work on during my coursework.
+I would like to thank Dr. Mihai Nica for getting me this dataset to work on during my coursework.
